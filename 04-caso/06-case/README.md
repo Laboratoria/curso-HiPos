@@ -13,7 +13,7 @@ negocio.
 
 Esta es la gran ventaja de esta nueva era digital! que disponibiliza
 miles de herramientas que podemos utilizar para crear y mejorar nuestros
-productos sin necesariamente desarrollarlas nosotros mismos.
+productos sin necesariamente desarrollarlas nosotros mismos, como las que revisaste en la anteriores secciones de esta unidad. 
 
 Imagina por un momento que es verano, época de vacaciones y varios colaboradores han decidido tomar sus días libres, incluyendo tu!
 
