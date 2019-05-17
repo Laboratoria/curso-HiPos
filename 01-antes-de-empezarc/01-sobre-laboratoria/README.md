@@ -1,8 +1,8 @@
-# Conoce más sobre Laboratoria y tus Facilitadores
+# Sobre Laboratoria
 
-* Tipo: `lectura`
+* Tipo: `video`
 * Formato: `self-paced`
-* Duración: `1min`
+* Duración: `2min`
 
 ***
 
@@ -12,7 +12,7 @@ Hola! y bienvenido al curso "Aprender experimentando" de Laboratoria. En este
 video conocerás un poco más sobre nosotros y como estos entrenamientos son
 esenciales para cumplir nuestra visión:
 
-[Introducción del curso](https://youtu.be/_6ndP_7wSrk)
+[Bienvenido al curso de Laboratoria](https://youtu.be/_6ndP_7wSrk)
 
 ## ¿Dónde puedes saber más de nosotros?
 
@@ -27,22 +27,6 @@ con la organización.
 Conoce un poco más de los facilitadores que desarrollarán las distintas sesiones
 del curso.
 
-### Herman Marín
-
-*Co-founder & CDO (Chief Design Officer) - Laboratoria*
-
-[Linkedin](https://pe.linkedin.com/in/herman-marin)
-
-Herman es el “techie” del equipo, con más de 15 años de experiencia liderando
-proyectos digitales en ámbitos sociales, privados y políticos de Estados Unidos
-y Latinoamérica. Su principal interés es promover la innovación digital para
-empoderar a los ciudadanos y facilitar el desarrollo social. Tiene un bachiller
-en Ingeniería de Sistemas de la Pontificia Universidad Católica de Ecuador y una
-Maestría en Comunicaciones, por la Universidad de Barcelona (España). Herman ha
-sido speaker de distintos eventos como SOLVE (MIT) y Product Tank; además, de
-ser facilitador y coach en los distintos programas de Corporate Training
-brindados en empresas de Perú, Chile y México.
-
 ### Claudia Alfaro
 
 *Directora de Corporate Training - Laboratoria*
@@ -54,12 +38,25 @@ liderando proyectos digitales. *Intrapreneur* de corazón, siempre ha buscado
 hacer un cambio en las empresas en las que ha trabajado, y que este se enfoque
 en generar valor para los clientes mediante el uso de la tecnología. Cree
 firmemente que las únicas marcas que triunfarán en el futuro son las que usan
-la creatividad y la tecnología para satisfacer necesidades reales de las
-personas y las que aprenden constantemente para ir mejorando en ello. Claudia
-tiene amplia experiencia en educación en innovación, habiendo tenido una escuela
-de Innovación en conjunto con la U. Lima (Playground Innovation School) y ahora
-dictando los cursos de Transformación Digital en las empresas más grandes del
-Perú.
+la creatividad y la tecnología para satisfacer necesidades reales de las personas
+y las que aprenden constantemente para ir mejorando en ello. Claudia tiene amplia
+experiencia en educación en innovación, habiendo tenido una escuela de Innovación
+en conjunto con la U. Lima (Playground Innovation School) y ahora dictando los
+cursos de Transformación Digital en las empresas más grandes del Perú.
+
+### Sofía Araya
+
+*Corporate Training Manager Santiago - Laboratoria*
+
+[Linkedin](https://www.linkedin.com/in/sofiarayae/)
+
+Sofía cuenta con más de 4 años de experiencia laboral tanto en el sector privado
+como ONGs. Fue profesora en Enseña Chile y consultor en MatrixConsulting, en
+donde desarrolló proyectos en las industrias de retail, consumo masivo, minería
+y transporte, principalmente en proyectos de estructura organizacional,
+eficiencia y planificación estratégica. Cree en el potencial de incentivar
+relaciones de aprendizaje entre startups y empresas para crear las marcas de
+éxito del futuro.
 
 ### Daniela Jaramillo
 
@@ -75,17 +72,3 @@ de incentivar relaciones de aprendizaje entre start ups y corporaciones para
 crear las marcas  de éxito del futuro. Tiene un MBA por ESIC Marketing &
 Business School en España y un master en Transformación Digital y Desarrollo de
 Negocio por la Universidad de Barcelona.
-
-### Sofía Araya
-
-*Corporate Training Manager - Laboratoria*
-
-[Linkedin](https://www.linkedin.com/in/sarayae/)
-
-Sofía cuenta con más de 4 años de experiencia laboral tanto en el sector privado
-como ONGs. Fue profesora en Enseña Chile y consultor en MatrixConsulting, en
-donde desarrolló proyectos en las industrias de retail, consumo masivo, minería
-y transporte, principalmente en proyectos de estructura organizacional,
-eficiencia y planificación estratégica. Cree en el potencial de incentivar
-relaciones de aprendizaje entre startups y empresas para crear las marcas de
-éxito del futuro.
