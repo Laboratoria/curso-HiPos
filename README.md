@@ -27,7 +27,9 @@ consideramos esencial en este proceso.
 
 ### Unidad 03: [Pre-trabajo](03-pretrabajo)
 
-El pretrabajo es el contenido obligatorio y concpetos base que deberás revisar
+El pretrabajo es el contenido obligatorio y conceptos base que deberás revisar
 antes de iniciar las clases presenciales.
 
-### Unidad 04: [Caso Real](04-caso)
+### Unidad 04: [Caso Práctico](04-caso)
+
+Antes de iniciar la sesión presencial, deberás desarrollar este caso práctico.
