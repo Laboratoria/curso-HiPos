@@ -9,7 +9,7 @@
 ## ¿Qué es Laboratoria?
 
 Hola! y bienvenido al curso "Aprender experimentando" de Laboratoria. En este
-video conocerás un poco más sobre nosotros y como estos entrenamientos son
+video conocerás un poco más sobre nosotros y cómo estos entrenamientos son
 esenciales para cumplir nuestra visión:
 
 [Bienvenido al curso de Laboratoria](https://youtu.be/_6ndP_7wSrk)
@@ -44,23 +44,24 @@ experiencia en educación en innovación, habiendo tenido una escuela de Innovac
 en conjunto con la U. Lima (Playground Innovation School) y ahora dictando los
 cursos de Transformación Digital en las empresas más grandes del Perú.
 
-### Sofía Araya
+### Ljubica Saavedra
 
-*Corporate Training Manager Santiago - Laboratoria*
+*Corporate Training Manager - Laboratoria*
 
-[Linkedin](https://www.linkedin.com/in/sofiarayae/)
+[Linkedin](https://www.linkedin.com/in/ljubica-saavedra-terkes-7313a761/)
 
-Sofía cuenta con más de 4 años de experiencia laboral tanto en el sector privado
-como ONGs. Fue profesora en Enseña Chile y consultor en MatrixConsulting, en
-donde desarrolló proyectos en las industrias de retail, consumo masivo, minería
-y transporte, principalmente en proyectos de estructura organizacional,
-eficiencia y planificación estratégica. Cree en el potencial de incentivar
-relaciones de aprendizaje entre startups y empresas para crear las marcas de
-éxito del futuro.
+Ljubica tiene 7 años de experiencia en estrategia comercial, manejo de productos
+y marketing management tanto en startups como en grandes corporaciones. En el
+2017 decide darle un giro a su carrera y seguir su pasión por emprender, y se
+muda a Australia a hacer una maestría en Innovación y Emprendimiento en la
+Universidad de Queensland. Fascinada por las iniciativas que ve, decide volver a
+Perú comprometida a tener un impacto social en su siguiente etapa profesional.
+Cree en la innovación como la mayor fuente de crecimiento de la economía y está
+comprometida a ser parte de esta.
 
 ### Daniela Jaramillo
 
-*Corporate Training Manager Lima - Laboratoria*
+*Corporate Training Manager - Laboratoria*
 
 [Linkedin](https://www.linkedin.com/in/daniela-jaramillo-4161167a/)
 
