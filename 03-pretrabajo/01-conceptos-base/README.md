@@ -32,3 +32,5 @@ Veamos un resumen dedicado a esta metodología, para dejar claro las bases de es
 metodología de experimentación y aprendizaje continuo:
 
 [Lean Startup](https://youtu.be/OYqvBfwnmZ0)
+
+***

@@ -15,3 +15,5 @@ Recuerda que no hay respuestas correctas o incorrectas, es solo tu percepción.
 [Percepción de habilidades](https://laboratoria.typeform.com/to/YUP758?email=xxxxx&fname=xxxxx&city=xxxxx&flow=xxxxx)
 
 Luego de completarla, pasa al siguiente módulo.
+
+***

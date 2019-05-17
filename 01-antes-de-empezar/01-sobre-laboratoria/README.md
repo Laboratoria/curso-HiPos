@@ -73,3 +73,5 @@ de incentivar relaciones de aprendizaje entre start ups y corporaciones para
 crear las marcas  de éxito del futuro. Tiene un MBA por ESIC Marketing &
 Business School en España y un master en Transformación Digital y Desarrollo de
 Negocio por la Universidad de Barcelona.
+
+***
