@@ -1,4 +1,4 @@
-# Herramientas para experimentar
+# Herramientas
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -6,10 +6,10 @@
 
 ***
 
-Estas herramientas te pueden ayudar a generar productos mínimos viables para
-experimentar sin la necesidad de un equipo técnico.
+En esta sección encontrarás videos tutoriales para el uso de algunas herramientas
+que nos ayudarán a desarrollar "productos mínimos viables".
 
-Esta es la gran ventaja de esta nueva era digital! que disponibiliza miles de
+La gran ventaja de esta nueva era digital, es que disponibiliza miles de
 herramientas que podemos utilizar para crear y mejorar nuestros productos sin
 necesariamente desarrollarlas nosotros mismos.
 
