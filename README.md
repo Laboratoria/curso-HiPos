@@ -25,12 +25,9 @@ pre-trabajo.
 En este nivel aprenderás más sobre la mentalidad de crecimiento, que
 consideramos esencial en este proceso.
 
-### Unidad 03: [Futuro del Trabajo](03-futuro-trabajo)
+### Unidad 03: [Pre-trabajo](03-pretrabajo)
 
-Conoce un poco más sobre cuál sera el futuro del trabajo y comparte tu
-opinión con nosotros.
+El pretrabajo es el contenido obligatorio y concpetos base que deberás revisar
+antes de iniciar las clases presenciales.
 
 ### Unidad 04: [Caso Real](04-caso)
-
-Cuentános cuál sería tu hipótesis y que construirías para solucionar un caso
-común al que se enfrentan muchos negocios hoy.
