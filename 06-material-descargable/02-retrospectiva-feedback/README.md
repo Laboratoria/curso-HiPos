@@ -12,4 +12,4 @@ que el equipo no se vuelva a equivocar en lo mismo en la próxima iteración.
 
 Además, siempre hay un feedback personal hacia los miembros del equipo.
 
-[Presentación](https://docs.google.com/presentation/d/e/2PACX-1vRqHZDLX8jhc7ifha8ztJF4NfPuOTApkyNF1gkBjs1Dpa9uK6KVGLZuh5YxIMlKw2Ppg-X1It8xT_BK/embed?start=false&loop=false&delayms=3000)
+[Presentación](<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJLb_4dsv_HFT8N446ZEqK6ShIoHgrvGTGTGcgLqdUJr3IQl0Kx8Mvo2I_tsm4fgq9DmrSHV5lz_K8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>)
