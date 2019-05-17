@@ -24,7 +24,7 @@ con el fin de amplificar el potencial de los individuos para generar mayor valor
 tanto en las personas como a las empresas"
 
 Te invitamos a leer este árticulo de Forbes, sobre el futuro del trabajo de y
-que nos cuentes que aprendiste leyéndolo, que te pareció relevante y que opinas
+que nos cuentes qué aprendiste leyéndolo, qué te pareció relevante y qué opinas
 sobre ellos.
 
 [Crear hoy el futuro del trabajo](https://www.forbes.com.mx/crear-hoy-el-futuro-del-trabajo/)
