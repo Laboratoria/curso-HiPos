@@ -8,7 +8,7 @@
 
 Te recomendamos leer el siguiente artículo respecto a cómo un retailer ha
 utilizado la data para generar mayor valor a sus clientes. No es obligatorio,
-sin embargo creemos que te interesará muchísimo y lo comentaremos en clase.
+sin embargo, creemos que te interesará muchísimo y lo comentaremos en clase.
 
 [Screw Emotional Intelligence–Here’s The Key To The Future Of Work](https://www.fastcompany.com/40522394/screw-emotional-intelligence-heres-the-real-key-to-the-future-of-work)
 

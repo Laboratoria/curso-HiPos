@@ -17,8 +17,8 @@ Es necesario que completes el pre-trabajo para llevar las sesiones presenciales.
 
 Bienvenidx al curso "Aprender Experimentando". En esta sección podrás
 saber más sobre Laboratoria, tus facilitadores, y cómo se estructura el curso.
-Deberás completar también unas encuestas base, para seguir con el resto del
-pre-trabajo.
+Deberás completar también una encuesta base para continuar a la siguiente
+sección.
 
 ### Unidad 02: [Growth Mindset](02-growth-mindset)
 
@@ -27,7 +27,10 @@ consideramos esencial en este proceso.
 
 ### Unidad 03: [Pre-trabajo](03-pretrabajo)
 
-El pretrabajo es el contenido obligatorio y concpetos base que deberás revisar
+El pretrabajo es el contenido obligatorio y conceptos base que deberás revisar
 antes de iniciar las clases presenciales.
 
-### Unidad 04: [Caso Real](04-caso)
+### Unidad 04: [Herramientas](04-herramientas)
+
+En esta sección encuentra videos tutoriales de herramientas digitales que
+podremos utilizar en las sesiones.

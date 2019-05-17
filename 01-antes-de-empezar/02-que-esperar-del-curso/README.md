@@ -24,9 +24,15 @@ esfuerzos para probar sus hipótesis.
 * Aprendizajes:
   - Entender las características del entorno digital y los conceptos base
     necesarios para navegar en el sector.
-  - Crear prototipos que les permitirán aprender en un tiempo corto, definir prioridades cuando se construye un producto mínimo viable y tomar decisiones basadas en data.
-  - Tangibilizar los conceptos aprendidos en una cultura de experimentación y mejora continua, enseñándoles a "salir del edificio" de manera autónoma e independiente.
-  - Aprender a "contar la historia" como parte de una cultura que aprende constantemente en conjunto en base a la experimentación y comparte sus aprendizajes.
+  - Crear prototipos que les permitirán aprender en un tiempo corto, definir
+    prioridades cuando se construye un producto mínimo viable y tomar decisiones
+    basadas en data.
+  - Tangibilizar los conceptos aprendidos en una cultura de experimentación y
+    mejora continua, enseñándoles a "salir del edificio" de manera autónoma e
+    independiente.
+  - Aprender a "contar la historia" como parte de una cultura que aprende
+    constantemente en conjunto en base a la experimentación y comparte sus
+    aprendizajes.
 
 ## Estructura:
 
@@ -34,4 +40,6 @@ esfuerzos para probar sus hipótesis.
 * Sesión 2: Construcción del experimento
 * Sesión 3: Resultados del experimento y next steps
 * Sesión 4:¿Cómo se lo comunico a mi jefe/organización?
-* Sesión 5:¿Porqúe es importante lo que aprendimos?
+* Sesión 5:¿Por qué es importante lo que aprendimos?
+
+***
