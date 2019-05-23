@@ -1,4 +1,4 @@
-# Desarrollando Growth Mindset
+# Growth Mindset en la era digital 
 
 * Tipo: `lectura`
 * Formato: `self-paced`

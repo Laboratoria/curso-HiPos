@@ -40,7 +40,7 @@ cuando vamos a estar fuera de la oficina para poder organizarnos mejor.
 Esta vez, por todo el trabajo que tuviste antes de salir de vacaciones, fue
 imposible registrarlos antes de salir, y cuando ya estabas en casa y querías
 hacerlo te diste cuenta que solo se puede hacer este registro dentro de la
-oficina.  
+oficina. Tu que eres un colaborador super comprometido con tu trabajo y con la empresa te decides a tratar de resolver este problema para todos. Que nunca más uno de tus colegas tenga que estar en la oficina para registrar sus vacaciones!
 
 ¿Qué solución construirías para ayudar a solucionar el problema? ¿qué se te
 ocurre que puedes hacer tú? es decir, sin ayuda de TI o alguien más? ¿Cómo sabes
