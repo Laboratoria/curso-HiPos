@@ -34,3 +34,14 @@ antes de iniciar las clases presenciales.
 
 En esta sección encuentra videos tutoriales de herramientas digitales que
 podremos utilizar en las sesiones.
+
+### Unidad 05: [Sesiones](05-sesiones)
+
+En esta sección encuentra las presentaciones de nuestras sesiones presenciales.
+
+### Unidad 06: [Material Descargable](06-material-descargable)
+
+En esta unidad encontrarás guias para realizar tu retrospectiva y feedback que
+te ayudarán al aprendizaje continuo del equipo en cada iteración. Además, podrás
+descargar los formatos de la guía de experimentación vista en clases para que la
+puedas utilizar con tu equipo en un futuro.
