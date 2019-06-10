@@ -2,7 +2,7 @@
 
 * Tipo: `lectura`
 * Formato: `self-paced`
-* Duración: `180min`
+* Duración: `1min`
 
 ***
 
@@ -12,4 +12,4 @@ después de cada sesión.
 
 [Construcción del experimento](https://docs.google.com/presentation/d/e/2PACX-1vTj5PviLATCT4pCWwq-on1FX9sDJpFF_O7HTd6Ps2g8UgO_kYwIw-7jB8J7XlEzDkLRRUYEfNUE6xh6/embed?start=false&loop=false&delayms=3000)
 
-[Descarga la presentación]()
+[Descarga la presentación](https://drive.google.com/file/d/1gOrmXK8rmwwYopUktaYkVdpWyIYnrvZe/view?usp=sharing)
