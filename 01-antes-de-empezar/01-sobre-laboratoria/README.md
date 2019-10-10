@@ -6,13 +6,22 @@
 
 ***
 
+* Tipo: `video`
+* Formato: `self-paced`
+* Duración: `2min`
+
+***
+
 ## ¿Qué es Laboratoria?
 
 Hola! y bienvenido al curso "Aprender experimentando" de Laboratoria. En este
-video conocerás un poco más sobre nosotros y como estos entrenamientos son
-esenciales para cumplir nuestra visión:
+video conoce un poco más sobre Laboratoria y el impacto que quiere lograr en
+América Latina.
 
-[Introducción del curso](https://youtu.be/_6ndP_7wSrk)
+[Introducción de Laboratoria](https://vimeo.com/345548848)
+
+>"Laboratoria existe para impulsar una economía digital que crezca abriendo
+oportunidades para todas las personas por igual"
 
 ## ¿Dónde puedes saber más de nosotros?
 
@@ -20,6 +29,7 @@ En Laboratoria contamos con diferentes recursos que pueden ayudarte a conectarte
 con la organización.
 
 * [Síguenos en Medium](https://medium.com/laboratoria)
+* Únete a la conversación en nuestro Digital Hub en [Linkedin](https://www.linkedin.com/groups/12152534/)
 * Conéctate con nosotros a través de [Facebook](https://www.facebook.com/laboratoriala/), [Twitter](https://twitter.com/Laboratoriala), [Linkedin](https://www.linkedin.com/school/laboratoriala/) o [Instagram](https://www.instagram.com/laboratoriala/)
 
 ## Facilitadores
@@ -75,17 +85,3 @@ de incentivar relaciones de aprendizaje entre start ups y corporaciones para
 crear las marcas  de éxito del futuro. Tiene un MBA por ESIC Marketing &
 Business School en España y un master en Transformación Digital y Desarrollo de
 Negocio por la Universidad de Barcelona.
-
-### Sofía Araya
-
-*Corporate Training Manager - Laboratoria*
-
-[Linkedin](https://www.linkedin.com/in/sarayae/)
-
-Sofía cuenta con más de 4 años de experiencia laboral tanto en el sector privado
-como ONGs. Fue profesora en Enseña Chile y consultor en MatrixConsulting, en
-donde desarrolló proyectos en las industrias de retail, consumo masivo, minería
-y transporte, principalmente en proyectos de estructura organizacional,
-eficiencia y planificación estratégica. Cree en el potencial de incentivar
-relaciones de aprendizaje entre startups y empresas para crear las marcas de
-éxito del futuro.
