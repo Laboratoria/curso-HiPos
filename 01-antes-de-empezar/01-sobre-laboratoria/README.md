@@ -1,11 +1,5 @@
 # Conoce más sobre Laboratoria y tus Facilitadores
 
-* Tipo: `lectura`
-* Formato: `self-paced`
-* Duración: `1min`
-
-***
-
 * Tipo: `video`
 * Formato: `self-paced`
 * Duración: `2min`
@@ -78,10 +72,10 @@ Perú.
 [Linkedin](https://www.linkedin.com/in/daniela-jaramillo-4161167a/)
 
 Daniela trae 7 años de experiencia en marketing estratégico, innovación y
-desarrollo de producto en Telefónica. Apasionada por los negocios con impacto
-social y la innovación digital, dejó su carrera en el mundo corporativo para
-apoyar al crecimiento y éxito de Laboratoria. Cree firmemente en el potencial
-de incentivar relaciones de aprendizaje entre start ups y corporaciones para
-crear las marcas  de éxito del futuro. Tiene un MBA por ESIC Marketing &
+desarrollo de producto en el sector corporativo y 2 años de desarrollo de
+estrategia digital y cultura de innvación junto con los aliados de Laboratoria.
+Cree firmemente en que los negocios y organizaciones que perdurarán en el futuro
+son las que se transformarán para aprender continuamente, adaptarse y generar
+valor a todos sus stakeholders y a la sociedad. Tiene un MBA por ESIC Marketing &
 Business School en España y un master en Transformación Digital y Desarrollo de
 Negocio por la Universidad de Barcelona.
