@@ -12,6 +12,6 @@ tus habilidades y tu rendimiento.
 
 Recuerda que no hay respuestas correctas o incorrectas, es solo tu percepción.
 
-[Percepción de habilidades](https://laboratoria.typeform.com/to/YUP758?email=xxxxx&fname=xxxxx&city=xxxxx&flow=xxxxx)
+[Percepción de habilidades](https://laboratoria.typeform.com/to/dsWoR0)
 
 Gracias por completarlo! Ahora puedes pasar al siguiente módulo
