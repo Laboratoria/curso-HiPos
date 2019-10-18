@@ -1,36 +1,31 @@
-# Aprender Experimentando
+# Auto-conocimiento
 
-Las grandes empresas reconocen que la tecnología digital está cambiando el mundo
-y cada vez más apuestan por soluciones digitales que generen mayor valor para
-sus clientes. El objetivo de este curso es alinear tu conocimiento sobre
-metodologías de desarrollo de producto, transformación digital y entender
-el por qué tu participación es clave para el cambio de la organización.
-Además queremos que experimenten en grupo, en base a una iniciativa que quieran
-probar rápidamente con clientes reales "fuera del edificio", usando distintas
-herramientas digitales que les permitirán ser más autónomos y aprender rápido.
-
-Es necesario que completes el pre-trabajo para llevar las sesiones presenciales.
+Este contenido busca llevarte en un pequeño viaje de autoconocimiento. Esta es
+una de las competencias más importantes y básicas con las que un líder debe
+contar, dado que es él/ella quien debe comenzar por identificar sus fortalezas
+y áreas de oportunidad, para priorizar sus acciones en busca de mejorarlas con
+formación u otras personas que le complementen.
 
 ## Syllabus
 
-### Unidad 01: [Antes de  empezar](01-antes-de-empezar)
+### Unidad 01: [¿Qué es Autoconocimiento?](01-autoconocimiento)
 
-Bienvenidx al curso "Aprender Experimentando". En esta sección podrás
-saber más sobre Laboratoria, tus facilitadores, y cómo se estructura el curso.
-Deberás completar también unas encuestas base, para seguir con el resto del
-pre-trabajo.
+Conoce un poco más de los conceptos base que nos llevarán por este contenido.
 
 ### Unidad 02: [Growth Mindset](02-growth-mindset)
 
 En este nivel aprenderás más sobre la mentalidad de crecimiento, que
 consideramos esencial en este proceso.
 
-### Unidad 03: [Futuro del Trabajo](03-futuro-trabajo)
+### Unidad 03: [Tests de autoconocimiento](03-tests-autoconocimiento)
+
+Encuentra los tests que te permitirán conocerte mejor. En esta unidad también
+colocaremos el feedback de tus pares y explicaremos más sobre cómo usar "la
+ventana de johari".
+
+### Unidad 04: [Opcional: Futuro del Trabajo](04-futuro-trabajo)
 
 Conoce un poco más sobre cuál sera el futuro del trabajo y comparte tu
 opinión con nosotros.
 
-### Unidad 04: [Caso Real](04-caso)
-
-Cuentános cuál sería tu hipótesis y que construirías para solucionar un caso
-común al que se enfrentan muchos negocios hoy.
+***
