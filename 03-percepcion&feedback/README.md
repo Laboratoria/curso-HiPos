@@ -1,4 +1,4 @@
-# Resolviendo un problema
+# Percepción sobre pares
 
 * Tipo: `lectura`
 * Formato: `self-paced`
