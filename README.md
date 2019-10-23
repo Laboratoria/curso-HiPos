@@ -23,7 +23,7 @@ consideramos esencial en este proceso.
 
 ### Unidad 04: [Opcional: Futuro del Trabajo](04-futuro-trabajo)
 
-Conoce un poco más sobre cuál sera el futuro del trabajo y comparte tu
-opinión con nosotros.
+Conoce un poco más sobre cuál sera el futuro del trabajo y comparte tu opinión
+con nosotros.
 
 ***
