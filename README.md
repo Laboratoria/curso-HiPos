@@ -12,7 +12,7 @@ formación u otras personas que le complementen.
 
 Conoce un poco más de los conceptos base que nos llevarán por este contenido.
 
-### Unidad 02:[Feedback](02-feedback)
+### Unidad 02: [Feedback](02-feedback)
 
 Conoce el significado y la importancia de dar y recibir feedback.
 
