@@ -15,6 +15,8 @@ para mejorar su manera de hacer las cosas y el funcionamiento de la organizació
 
 ## Johari Window ó ventana de Johari
 
+[Ventana de Johari](https://vimeo.com/368373693)
+
 Es una herramienta de la psicología cognitiva. Concretamente este modelo de
 análisis ilustra el proceso de la comunicación y analiza la dinámica de las
 relaciones personales.
@@ -24,6 +26,8 @@ dividido en cuatro áreas (cuadrantes), definidas por la información que se
 transmite.
 
 ## Síndorme del impostor
+
+[Síndrome del impostor](https://vimeo.com/368362316)
 
 Es un fenómeno psicológico en el que la gente es incapaz de internalizar sus
 logros y sufre un miedo persistente de ser descubierto como un fraude.
