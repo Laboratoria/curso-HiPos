@@ -17,11 +17,11 @@ cambiar o seguir construyendo la imagen que tienen de ti.
 
 Incluso tú mismx tienes una imagen mental de cómo eres, o cómo te imaginas que
 las personas te ven. Antes de pasar a la siguiente unidad por favor, completa
-esta encuesta de opinión sobre las creencias y metas relacionadas a tus
-habilidades y rendimiento.
+esta encuesta de opinión sobre las creencias y metas relacionadas a tu forma de
+pensar y tu rendimiento.
 
 Recuerda que no hay respuestas correctas o incorrectas, es solo tu percepción.
 
-[Percepción de habilidades](https://laboratoria.typeform.com/to/dsWoR0)
+[Tipo de mentalidad](https://laboratoria.typeform.com/to/dsWoR0)
 
 Gracias por completarlo! Ahora puedes pasar al siguiente módulo
