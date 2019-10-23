@@ -1,4 +1,4 @@
-# ¿Por qué es importante el feedback?
+# Sobre los resultados
 
 * Tipo: `lectura`
 * Formato: `self-paced`

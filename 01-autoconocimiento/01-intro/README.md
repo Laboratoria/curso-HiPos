@@ -1,4 +1,4 @@
-# Introducción
+# Sobre el autoconocimiento
 
 * Tipo: `lectura`
 * Formato: `self-paced`
