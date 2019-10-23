@@ -2,7 +2,7 @@
 
 * Tipo: `lectura`
 * Formato: `self-paced`
-* Duración: `20min`
+* Duración: `1min`
 
 ***
 
@@ -14,4 +14,4 @@ permitirá entregarte una "Johari Window" de tus habilidades.
 
 Recuerda que este resultado no te define como persona, simplemente muestra la
 percepción que otros (y tú mismo) tienen sobre tí. Si quieres, La pregunta que
-te deberías hacer luego de recibirlo es: ¿cómo puedo mejorar esa percepción? 
+te deberías hacer luego de recibirlo es: ¿cómo puedo mejorar esa percepción?
