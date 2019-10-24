@@ -8,14 +8,15 @@
 
 ## ¿Qué es autoconocimiento?
 
-*“Conocerse a uno mismo es la tarea más difícil porque pone en juego
+>“Conocerse a uno mismo es la tarea más difícil porque pone en juego
 directamente nuestra racionalidad, pero también nuestros miedos y pasiones. Si
 uno consigue conocerse a fondo a sí mismo, sabrá comprender a los demás y
-la realidad que lo rodea”*
+la realidad que lo rodea”
 - Alejandro Magno
 
 Empieza a conocerte a tí mismo, completando esta encuesta sobre tus habilidades.
-[Encuesta de percepción](https://docs.google.com/forms/d/e/1FAIpQLSfFzamw4rtsPS8g1r6p77t_Y8ZbpsBiiErfursltithATnBMA/viewform?usp=sf_link)
+
+###[Completa la encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfFzamw4rtsPS8g1r6p77t_Y8ZbpsBiiErfursltithATnBMA/viewform?usp=sf_link)
 
 [¿Qué es el autoconocimiento?](https://vimeo.com/368335699)
 
