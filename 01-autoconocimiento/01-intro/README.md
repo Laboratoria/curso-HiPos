@@ -16,7 +16,7 @@ la realidad que lo rodea”
 
 Empieza a conocerte a tí mismo, completando esta encuesta sobre tus habilidades. Haz clic [aquí](https://docs.google.com/forms/d/17Et5qm1vAjCJ5-UPtavkk8yLnTVkesni3-Aj4bjo1f8/edit?usp=sharing)
 
-[![click](https://user-images.githubusercontent.com/50376286/67511485-9d6b7480-f65c-11e9-871a-47657a181330.png)](https://docs.google.com/forms/d/17Et5qm1vAjCJ5-UPtavkk8yLnTVkesni3-Aj4bjo1f8/edit?usp=sharing)
+[![test habilidades image](https://user-images.githubusercontent.com/50376286/67511485-9d6b7480-f65c-11e9-871a-47657a181330.png)](https://docs.google.com/forms/d/17Et5qm1vAjCJ5-UPtavkk8yLnTVkesni3-Aj4bjo1f8/edit?usp=sharing)
 
 [¿Qué es el autoconocimiento?](https://vimeo.com/368335699)
 
