@@ -14,9 +14,9 @@ uno consigue conocerse a fondo a sí mismo, sabrá comprender a los demás y
 la realidad que lo rodea”
 - Alejandro Magno
 
-Empieza a conocerte a tí mismo, completando esta encuesta sobre tus habilidades.
+Empieza a conocerte a tí mismo, completando esta encuesta sobre tus habilidades. Haz clic [aquí](https://docs.google.com/forms/d/17Et5qm1vAjCJ5-UPtavkk8yLnTVkesni3-Aj4bjo1f8/edit?usp=sharing)
 
-###[Completa la encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfFzamw4rtsPS8g1r6p77t_Y8ZbpsBiiErfursltithATnBMA/viewform?usp=sf_link)
+[![click](https://user-images.githubusercontent.com/50376286/67511485-9d6b7480-f65c-11e9-871a-47657a181330.png)](https://docs.google.com/forms/d/17Et5qm1vAjCJ5-UPtavkk8yLnTVkesni3-Aj4bjo1f8/edit?usp=sharing)
 
 [¿Qué es el autoconocimiento?](https://vimeo.com/368335699)
 
