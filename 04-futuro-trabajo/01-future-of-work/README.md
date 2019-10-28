@@ -1,12 +1,10 @@
-# Futuro del Trabajo
+# Sobre el futuro del Trabajo
 
 * Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `10min`
 
 ***
-
-## Sobre el futuro del trabajo
 
 >"El propósito de una organización es ayudar a seres humanos ordinarios a hacer
 cosas extraordinarias”

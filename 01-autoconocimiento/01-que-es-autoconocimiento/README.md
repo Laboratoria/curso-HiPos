@@ -1,4 +1,4 @@
-# Sobre el autoconocimiento
+# ¿Qué es autoconocimiento?
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -6,17 +6,11 @@
 
 ***
 
-## ¿Qué es autoconocimiento?
-
 >“Conocerse a uno mismo es la tarea más difícil porque pone en juego
 directamente nuestra racionalidad, pero también nuestros miedos y pasiones. Si
 uno consigue conocerse a fondo a sí mismo, sabrá comprender a los demás y
 la realidad que lo rodea”
 - Alejandro Magno
-
-Empieza a conocerte a tí mismo, completando esta encuesta sobre tus habilidades. Haz clic [aquí](https://docs.google.com/forms/d/17Et5qm1vAjCJ5-UPtavkk8yLnTVkesni3-Aj4bjo1f8/edit?usp=sharing)
-
-[![test habilidades image](https://user-images.githubusercontent.com/50376286/67511485-9d6b7480-f65c-11e9-871a-47657a181330.png)](https://docs.google.com/forms/d/17Et5qm1vAjCJ5-UPtavkk8yLnTVkesni3-Aj4bjo1f8/edit?usp=sharing)
 
 [¿Qué es el autoconocimiento?](https://vimeo.com/368335699)
 

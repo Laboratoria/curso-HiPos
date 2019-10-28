@@ -8,6 +8,10 @@ formación u otras personas que le complementen.
 
 ## Syllabus
 
+### Unidad 00: [Información Personal](00-info-personal)
+
+Empecemos conociéndote un poco más.
+
 ### Unidad 01: [¿Qué es Autoconocimiento?](01-autoconocimiento)
 
 Conoce un poco más de los conceptos base que nos llevarán por este contenido.
