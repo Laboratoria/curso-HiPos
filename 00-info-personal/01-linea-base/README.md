@@ -6,4 +6,4 @@
 
 ***
 
-[Queremos conocer más de ti](https://laboratoria.typeform.com/to/wn5ZW6)
+[Queremos conocer más de ti](https://laboratoria.typeform.com/to/FKIuS1)

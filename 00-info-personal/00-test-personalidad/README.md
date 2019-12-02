@@ -11,4 +11,4 @@
 Se você já fez isso antes e lembre-se de que tipo de personalidade tinha, vá para
 o passo 2 diretamente. Se você não o fez ou não se lembra de sua personalidade,
 faça o teste digitando
-### este [link](https://www.16personalities.com/es/test-de-personalidad)
+### este [link](https://www.16personalities.com/br/teste-de-personalidade)

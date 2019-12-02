@@ -7,6 +7,6 @@
 ***
 Completa el siguiente test:
 
-[Tipo de mentalidad](https://laboratoria.typeform.com/to/dsWoR0)
+[Tipo de mentalidad](https://laboratoria.typeform.com/to/wn5ZW6)
 
 Gracias por completarlo! Ahora puedes pasar al siguiente módulo
