@@ -6,66 +6,65 @@
 
 ***
 
-## ¿Qué es Growth Mindset o Mentalidad de Crecimiento?
+Growth mindset
+## Sobre Growth Mindset
 
-Uno de los prinicipios fundamentales para ganar en esta nueva era digital,
-con su vertiginoso ritmo de cambio, es el  **aprender a aprender** y hacerlo
+Um dos princípios fundamentais a vencer nesta nova era digital,
+com seu ritmo vertiginoso de mudança, é o **aprender a aprender** e fazê-lo
 continuamente.
 
-¿Alguna vez has leído o escuchado algo sobre Growth Mindset? Al finalizar esta
-lectura, esperamos que no sólo entiendas este concepto, sino que adoptes una
-mentalidad de crecimiento que te permita enfrentar los retos de aprender algo
-nuevo, y tener la confianza de saber que podrás superarlos.
+Você já leu ou ouviu alguma coisa sobre Growth Mindset? No final deste
+lendo, esperamos que você não apenas entenda esse conceito, mas que você adote uma
+mentalidade de crescimento que te permita enfrentar os desafios de aprender algo
+novo, e ter a confiança de saber que poderá superá-los.
 
-La mayoría de personas creen que la inteligencia es una capacidad mental con la
-que nacemos, que es estática y que no podemos cambiar. Esta creencia ocasiona
-que pensemos que nuestra inteligencia tiene un límite, y que hay cosas que
-simplemente no podremos aprender.
+A maioria das pessoas acham que a inteligência é uma capacidade mental com a qual
+nascemos, que é estática e que não podemos mudá-la. Esta crença nos faz pensar que
+nossa inteligência tem um limite, e que há coisas que simplesmente não podemos
+aprender.
 
-Sin embargo, diversas investigaciones sobre el cerebro y el aprendizaje han
-demostrado que cada vez que aprendemos algo nuevo nuestro cerebro cambia y
-crece. En otras palabras, nosotrxs mismxs tenemos el control para desarrollar y
-expandir nuestra inteligencia.
+Mas, diversas pesquisas sobre o cérebro e a aprendizagem têm demonstrado que
+cada vez que aprendemos algo novo, nosso cérebro muda e cresce. Em outras
+palavras, nós mesmos temos o controle para desenvolver e expandir nossa
+inteligência.
 
-Hace 30 años, Carol Dweck, una psicóloga estadounidense, se planteó investigar y
-comparar cómo estas distintas creencias podían causar que las personas
-obtuvieran diferentes resultados al enfrentarse a un reto de aprendizaje.
-Después de varias investigaciones, ella acuñó los términos Fixed mindset y
-Growth mindset, es decir, mentalidad fija o mentalidad de crecimiento, para
-describir a ambos tipos de creencias.
+Há 30 anos, Carol Dweck, uma psicóloga americana, se propôs a investigar e
+comparar como estas diferentes crenças podiam fazer com que as pessoas tivessem
+resultados diferentes ao enfrentar um desafio de aprendizagem. Depois de muitas
+pesquisas, ela cunhou os termos Fixed mindset e Growth mindset, ou seja,
+Mentalidade fixa e Mentalidade de crescimento, para descrever esses dois tipos
+de crenças.
 
-A través de sus estudios en diferentes escuelas de Estados Unidos, ella
-descubrió que cuando los estudiantes creen que pueden lograr que su inteligencia
-se desarrolle, entonces están dispuestos a esforzarse más, porque entienden que
-el logro que alcanzarán será mejor y más grande.
+Através de estudos em escolas diferentes nos Estados Unidos, ela descobriu que
+quando estudantes acham que podem desenvolver a própria inteligência, estão
+dispostos a se esforçar mais, porque entendem que a conquista que eles alcançarão
+será maior e melhor.
 
-Actualmente, los últimos avances en neurociencias han mostrado que el cerebro es
-mucho más maleable de lo que pensábamos. Las investigaciones en plasticidad
-neuronal evidencian cómo la conectividad entre neuronas puede cambiar con las
-experiencias que las personas van acumulando. Con práctica, las redes neuronales
-van creciendo y creando nuevas conexiones. Esto implica que tú puedes
-incrementar el crecimiento de tus redes neuronales con acciones, como al
-realizar preguntas, leer, practicar una y otra vez algo que te resulta
-complicado, y manteniendo buenos hábitos de alimentación y sueño.
+Atualmente, os últimos avanços nas neurociências mostraram que o cérebro é muito
+mais maleável do que pensávamos. As pesquisas sobre plasticidade neuronal
+evidenciam como a conectividade entre os neurônios pode mudar com as experiências
+que as pessoas vão acumulando. Com a prática, as redes neuronais crescem e criam
+novas conexões. Isto implica que você pode incrementar o crescimento duas suas
+redes neuronais com ações como fazer perguntas, ler, praticar várias vezes algo
+que para você é complicado, e mantendo bons hábitos de alimentação e sono.
 
-Gracias a estos nuevos descubrimientos científicos, muchos investigadores han
-comenzando a entender la conexión entre los tipos de mentalidades y las
-posibilidades de alcanzar logros. Los estudios de Carol Dweck han mostrado que
-si piensas que tu cerebro puede crecer, entonces tu comportamiento es distinto a
-si piensas que naciste con una inteligencia fija. Por ejemplo, unx estudiante o
-trabajadxr con una mentalidad fija, estará orientada a mostrar un desempeño
-perfecto, por lo que preferirá realizar solo actividades que sabe que puede
-lograr, para así verse siempre inteligente. En cambio, una estudiante con una
-mentalidad de crecimiento, se sentirá mucho más cómoda enfrentando retos que no
-necesariamente sabe cómo lograr, porque sabe que estos desafíos le permitirán
-aprender más.
+Graças a essas novas descobertas científicas, muitos pesquisadores começaram a
+entender a conexão entre os tipos de mentalidades e as possibilidades de alcançar
+conquistas. Os estudos de Carol Dweck mostraram que se você acredita que seu
+cérebro pode crescer, então o seu comportamento é diferente a se você acha que
+nasceu com uma inteligência fixa. Por exemplo, uma estudante ou trabalhadora com
+uma mentalidade fixa está orientada a mostrar um desempenho perfeito, então ela
+vai preferir fazer atividades que sabe que vai conseguir, para assim parecer
+sempre inteligente. No entanto, uma estudante com uma mentalidade de crescimento
+se sentirá muito mais confortável enfrentando desafios que ela não sabe
+necessariamente como vencer, porque sabe que estes desafios vão lhe permitir
+aprender mais.
 
-**Tener una mentalidad de crecimiento significa que entiendes que puedes
-desarrollar e incrementar tu inteligencia y todas tus habilidades, y que no
-tienes miedo a los retos. Significa que sabes que la mejor manera de aprender se
-logra con esfuerzo, y por ello estás dispuesta a cometer errores en el
-proceso.**
+**Ter uma mentalidade de crescimento significa que você entende que pode
+desenvolver e incrementar sua inteligência e todas as suas habilidades, e que
+não tem medo de desafios. Significa que você sabe que a melhor maneira de
+aprender se conquista com esforço, e por isso está disposta a errar no processo.**
 
-Mira este video sobre Growth mindset (10 min)
+Assista esse video sobre Growth mindset (10 min)
 
 [![Video Growth Mindset](http://img.youtube.com/vi/pN34FNbOKXc/0.jpg)](http://www.youtube.com/watch?v=pN34FNbOKXc&cc_lang_pref=es&cc_load_policy=1)

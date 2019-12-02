@@ -6,28 +6,31 @@
 
 ***
 
-## ¿Cómo hacerlo?
+## Desenvolvendo Growth Mindset
 
-Verás que tu mentalidad puede variar, pues aunque quisiéramos tener siempre una
-mentalidad de crecimiento, la realidad es que tenemos que trabajar día a día y
-en cada situación desafiante para mantenerla. Lo importante es poder reconocer y
-detectar cuándo estamos teniendo elementos de una mentalidad fija, para luego
-reflexionar y encontrar estrategias para cambiar.
-
-La siguiente imagen resume algunas de las diferencias entre ambas mentalidades,
-y te ayudará a identificar cómo mejorar:
+Você verá que a sua mentalidade pode variar, porque apesar de que gostaríamos de
+ter sempre uma mentalidade de crescimento, a realidade é que temos que trabalhar
+todos os dias e em cada situação desafiante para mantê-la. O importante é poder
+reconhecer e detectar quando estamos tendo elementos de uma mentalidade fixa,
+para logo refletir e encontrar estratégias para mudar.
+A imagem a seguir resume algumas das diferenças entre ambas mentalidades, e te
+ajudará a identificar como melhorar:
 
 ![Image Growth Mindset](https://user-images.githubusercontent.com/25912510/35746484-ef89fb66-0814-11e8-9da8-0440d5b0375c.png)
 
-## Growth Mindset en la nueva era digital
+## Growth Mindset na nova era digital
 
-Antes de pasar a la siguiente parte queremos resaltar algunos puntos y
-darte algunos consejos:
+Antes de passar para a próxima parte queremos ressaltar alguns pontos e dar
+alguns conselhos:
 
-1. El aprendizaje es mejor y perdura más cuando necesitas esforzarte más. Los
-   aprendizajes fáciles se recuerdan hoy, pero no mañana. Cuando el aprendizaje
-   es más difícil, es más fuerte y se queda en tu memoria más tiempo.
-2. Tratar de resolver un problema antes de que te muestren cómo hacerlo, te
-   permitirá luego aprender y entender mejor la solución que te enseñen.
-3. Cometer errores y corregirlos es lo que te permitirá construir los puentes
-   para avanzar en el proceso de aprendizaje.
+1. A aprendizagem é melhor e perdura mais quando você precisa se esforçar mais.
+Os aprendizados fáceis são lembrados hoje, mas não amanhã. Quando o aprendizado
+é mais difícil, é mais forte e fica na memória mais tempo.
+2. Tentar resolver um problema antes de que te mostrem como fazê-lo te permitirá
+depois aprender e entender melhor a solução que te ensinem.
+3. Cometer erros e corrigi-los é o que te permitirá construir as pontes para
+avançar no processo de aprendizagem.
+
+Com todo esse conhecimento que você adquiriu e com sua nova mentalidade, te
+propomos aceitar este desafio: Aprender a aprender, e criar produtos que gerem
+valor e causem impacto em seus clientes e seu negócio.

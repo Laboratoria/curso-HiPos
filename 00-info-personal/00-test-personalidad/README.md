@@ -1,4 +1,4 @@
-# Paso 1: Test de personalidad
+# Paso 1: Teste de personalidade
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -6,7 +6,9 @@
 
 ***
 
-## ¿Conoces el test 16 personalidades?
+## Você conhece o teste 16 personalidades?
 
-Si lo has realizado con anterioridad y recuerdas qué tipo de personalidad tenías ve al paso 2 directamente. Si no lo has realizado o no recuerdas qué personalidad tenías, por favor toma el test ingresando a
+Se você já fez isso antes e lembre-se de que tipo de personalidade tinha, vá para
+o passo 2 diretamente. Se você não o fez ou não se lembra de sua personalidade,
+faça o teste digitando
 ### este [link](https://www.16personalities.com/es/test-de-personalidad)
