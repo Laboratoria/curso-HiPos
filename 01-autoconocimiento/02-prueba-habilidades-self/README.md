@@ -1,23 +1,13 @@
-# Test 1: Auto-conocimiento
+# Teste 1: Autoconhecimento
 
 * Tipo: `lectura`
 * Formato: `self-paced`
 * Duración: `1min`
 
 ***
-Comprender cuáles son nuestros puntos fuertes y débiles es clave para mejorar no
-solo en nuestro trabajo, sino también como personas. Muchas veces podemos tener
-una idea acerca de nuestras _habilidades_ que no necesariamente es la que
-nuestros compañerxs _perciben_, por eso creemos que es tan importante
-autoevaluarnos y al mismo tiempo pedir feedback. De este modo, podemos poner
-sobre una balanza nuestra percepción de esas capacidades versus lo que mostramos
-a nuestro entorno. Quién sabe, ¡tal vez nos encontremos con algunas sorpresas!
+Compreender quais são os nossos pontos fortes e fracos é a chave para melhorar não só no nosso trabalho, mas também como pessoas. Muitas vezes podemos ter uma ideia sobre nossas _habilidades_ que não necessariamente é a que os nossxs companheirxs _percebem_, por isso acreditamos que é tão importante fazer uma autoavaliação e ao mesmo tempo pedir feedback. Deste modo, podemos pôr numa balança nossa percepção dessas capacidades e o que mostramos ao nosso entorno. Quem sabe, talvez encontraremos algumas surpresas!
 
-A continuación deberás completar esta encuesta sobre tus habilidades, será como
-una especie de autoevaluación. Además, deberás pedir a -al menos, *2 de tus
-compañerxs de equipo* que te den feedback a través de la misma encuesta. Es tu
-responsabilidad asegurarte que ellxs llenen esta encuesta acerca de ti. Recuerda
-que es importante conocernos a nosotros mismxs, pero también entender cuál es
-esa percepción que estamos dando de cara a las personas que nos rodean.
+Agora você deve completar este questionário sobre suas habilidades, será uma espécie de autoavaliação. Além disso, você deve pedir feedback a pelo menos 2 compañerxs de equipe usando o mesmo questionário. É sua responsabilidade garantir que elxs preencham o questionário sobre você. Lembre-se que é importante conhecer-se a si mesmx, mas também entender qual é a percepção que estamos dando às pessoas que nos rodeiam.
 
-[test habilidades](https://laboratoria.typeform.com/to/EbY9FS)
+
+[O que é percepção?](https://laboratoria.typeform.com/to/EbY9FS)

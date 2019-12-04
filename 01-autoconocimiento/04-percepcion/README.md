@@ -1,4 +1,4 @@
-# ¿Qué es percepción?
+# O que é percepção?
 
 * Tipo: `lectura`
 * Formato: `self-paced`
@@ -6,16 +6,10 @@
 
 ***
 
-[¿Qué es percepción?](https://vimeo.com/368066649)
+[O que é percepção?](https://vimeo.com/368066649)
 
-Recuerda que la imagen mental que se hacen de ti, no necesariamente es cierta!
-Simplemente, las personas construyen una imagen con los estímulos que tú brindas,
-por ello que cuando quieras que perciban algo distinto en tí, eres tú el que
-deberás generar ciertos estímulos para que las personas los perciban y vuelvan a
-cambiar o seguir construyendo la imagen que tienen de ti.
+Lembre-se que a imagem mental que fazem de você não é necessariamente a correta! As pessoas simplesmente constroem uma imagem com os estímulos que você dá, por isso que quando você quiser que as pessoas notem algo diferente em você, é você quem deve gerar certos estímulos para que as pessoas os percebam e mudem, ou continuem construindo, a imagem que têm de você.
 
-Incluso tú mismx tienes una imagen mental de cómo eres, o cómo te imaginas que
-las personas te ven. Pasa a la última parte de esta unidad y completa la
-encuesta de opinión sobre tu forma de pensar y tu rendimiento.
+Até você mesmx tem uma imagem mental de como você é, ou como você imagina que as pessoas te vêm. Passe para a última parte desta unidade e complete a pesquisa de opinião sobre a sua forma de pensar e seu rendimento.
 
-Recuerda que no hay respuestas correctas o incorrectas, es solo tu percepción.
+Lembre-se que não há respostas corretas ou incorretas, é só a sua percepção.

@@ -6,25 +6,13 @@
 
 ***
 
->“Conocerse a uno mismo es la tarea más difícil porque pone en juego
-directamente nuestra racionalidad, pero también nuestros miedos y pasiones. Si
-uno consigue conocerse a fondo a sí mismo, sabrá comprender a los demás y
-la realidad que lo rodea”
-- Alejandro Magno
+>“Conhecer-se a si mesmo é a tarefa mais difícil porque coloca em jogo diretamente a nossa racionalidade, mas também nossos medos e paixões. Se consegues conhecer-te a fundo, saberás compreender os outros e a realidade que te rodeia”
+- Alexadre Magno
 
-[¿Qué es el autoconocimiento?](https://vimeo.com/368335699)
+[O que é o autoconhecimento?](https://vimeo.com/368335699)
 
-A través del autoconocimiento aprendemos a desenvolvernos con eficacia en la
-vida y a afrontar nuestro día a día de manera óptima. Saber realmente cómo somos,
-qué sentimos o qué metas queremos alcanzar son capacidades que se asocian a la
-inteligencia interpersonal.
+Através do autoconhecimento aprendemos a nos desenvolver com eficácia na vida e a enfrentar o nosso dia a dia otimamente. Saber como realmente somos, o que sentimentos ou que metas queremos alcançar são capacidades que se associam à inteligência interpessoal.
 
-Tener inteligencia interpersonal significa entender quiénes somos, saber
-identificar nuestras emociones y actuar en consecuencia. Habilidades que nos
-permiten regular nuestro comportamiento, resolver problemas de modo eficaz y
-tomar decisiones. Con el autoconocimiento aprendemos a identificar nuestras
-capacidades, pero también nuestras limitaciones. Esto nos ayuda a planificar
-metas de manera realista para evitar frustraciones futuras.
+Ter inteligência interpessoal significa entender quem somos, saber identificar as nossas emoções e atuar em consequência delas. Habilidades que nos permitem regular o nosso comportamento, resolver problemas de forma eficaz e tomar decisões. Com o autoconhecimento, aprendemos a identificar as nossas capacidades, mas também nossas limitações. Isto nos ajuda a planejar metas de forma realista para evitar frustrações futuras.
 
-Las personas dotadas de inteligencia interpersonal saben dominar sus emociones y
-adecuarlas a las circunstancias.
+As pessoas dotadas de inteligência interpessoal sabem dominar suas emoções e adequá-las às circunstâncias.
