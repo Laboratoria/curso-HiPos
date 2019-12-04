@@ -8,26 +8,26 @@ formación u otras personas que le complementen.
 
 ## Syllabus
 
-### Unidad 00: [Información Personal](00-info-personal)
+### Unidad 00: [Informação Personal](00-info-personal)
 
-Empecemos conociéndote un poco más.
+Vamos começar conhecendo você um pouco mais
 
-### Unidad 01: [¿Qué es Autoconocimiento?](01-autoconocimiento)
+### Unidad 01: [o que é Autoconhecimento?](01-autoconhecimento)
 
-Conoce un poco más de los conceptos base que nos llevarán por este contenido.
+Aprenda um pouco mais sobre os conceitos básicos que nos levarão a este conteúdo.
 
 ### Unidad 02: [Feedback](02-feedback)
 
-Conoce el significado y la importancia de dar y recibir feedback.
+Conheça o significado e a importância de dar e receber feedback.
 
 ### Unidad 03: [Growth Mindset](03-growth-mindset)
 
-En este nivel aprenderás más sobre la mentalidad de crecimiento, que
-consideramos esencial en este proceso.
+Nesse nível, você aprenderá mais sobre a mentalidade de crescimento, que
+Consideramos essencial neste processo.
 
-### Unidad 04: [Opcional: Futuro del Trabajo](04-futuro-trabajo)
+### Unidad 04: [Opcional: Futuro do Trabajo](04-futuro-trabajo)
 
-Conoce un poco más sobre cuál sera el futuro del trabajo y comparte tu opinión
-con nosotros.
+Aprenda um pouco mais sobre o que será o futuro do trabalho e compartilhe sua opinião
+connosco.
 
 ***
