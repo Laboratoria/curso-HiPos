@@ -6,25 +6,16 @@
 
 ***
 
->"El propósito de una organización es ayudar a seres humanos ordinarios a hacer
-cosas extraordinarias”
-- Peter Drucker
+>> “O propósito de uma organização é ajudar seres humanos ordinários a fazer coisas extraordinárias”
+Peter Drucker
 
-En esta nueva era vemos cómo se transforma el futuro del trabajo tanto
-en los roles y habilidades  que se necesitan, así como las preferencias y
-opciones que tienes los colaboradores para su desarollo personal y profesional.
-En realidad, las empresas que ganan en esta era son las que atraen y retienen
-al mejor talento, logrando hacer productos innovadores que impacten al mercado
-agregando valor real a sus clientes y transformándose continuamente.
+Nesta nova era vemos como o futuro do trabalho está se transformando, tanto nos papéis e habilidades que são necessários, como nas preferências e opções que os colaboradores têm para o seu desenvolvimento pessoal e profissional.
+Na verdade, as empresas que vencem nesta era são as que atraem e retém o melhor talento, conseguindo fazer produtos inovadores que impactam o mercado, agregando valor real a seus clientes e transformado-se de forma contínua.
 
->"Los líderes de esta nueva era tendrán que centrarse en la tecnología hecha por
-y para las personas, combinando la inteligencia artificial y la intuición humana
-con el fin de amplificar el potencial de los individuos para generar mayor valor
-tanto en las personas como a las empresas"
+>“Os lideres desta nova era terão que se concentrar na tecnologia feita por e para as pessoas, combinando a inteligência artificial e a intuição humana com o fim de ampliar o potencial dos individuos para gerar maior valor tanto nas pessoas como nas empresas.”
 
-Te invitamos a leer este árticulo de Forbes, sobre el futuro del trabajo y que
-nos cuentes qué aprendiste leyéndolo, qué te pareció relevante y qué opinas
-sobre ellos.
+Leia este artigo da Forbes, sobre o futuro do trabalho e conte-nos o que aprendeu lendo, o que você achou relevante e a sua opinião sobre ele.
 
-<blockquote class="embedly-card"><h4><a href="https://www.forbes.com.mx/crear-hoy-el-futuro-del-trabajo/">Claves para empezar a moldear el futuro del trabajo</a></h4><p>El impresionante ritmo de cambios tecnológicos ha provocado un nuevo esquema laboral a nivel mundial. Por ello, los empleados han replanteado la manera en que experimentan y evalúan su trabajo, creando un nuevo índice de valor que deja en segundo plano los temas económicos para ponderar más la calidad de vida y el desarrollo personal.</p></blockquote>
+
+<blockquote class="embedly-card"><h4><a href=“https://www.forbes.com.mx/crear-hoy-el-futuro-del-trabajo/">Chaves para começar a moldar o futuro do trabalho</a></h4><p> O ritmo impressionante das mudanças tecnológicas provocou um novo esquema de trabalho a nível mundial. Por isso, os empregados têm repensado a maneira que experimentam e avaliam o seu trabalho, criando um novo índice de valor que deixa em segundo plano os temas econômicos para ponderar mais a qualidade de vida e o desenvolvimento pessoal.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

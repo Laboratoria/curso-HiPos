@@ -10,4 +10,4 @@ Compreender quais são os nossos pontos fortes e fracos é a chave para melhorar
 Agora você deve completar este questionário sobre suas habilidades, será uma espécie de autoavaliação. Além disso, você deve pedir feedback a pelo menos 2 compañerxs de equipe usando o mesmo questionário. É sua responsabilidade garantir que elxs preencham o questionário sobre você. Lembre-se que é importante conhecer-se a si mesmx, mas também entender qual é a percepção que estamos dando às pessoas que nos rodeiam.
 
 
-[O que é percepção?](https://laboratoria.typeform.com/to/EbY9FS)
+[Autoconhecimento](https://laboratoria.typeform.com/to/EbY9FS)
