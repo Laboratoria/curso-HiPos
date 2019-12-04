@@ -1,6 +1,6 @@
 # Auto-conocimiento
 
-Este conteúdo busca te levar a uma pequena viagem de autoconhecimento. Está é uma das competências mais importantes e básicas que um líder deve ter, dado que ele/ela mesmo é quem deve
+Este conteúdo busca te levar a uma pequena viagem de autoconhecimento. Esta é uma das competências mais importantes e básicas que um líder deve ter, dado que ele/ela mesmo é quem deve
 começar a identificar suas próprias fortalezas e áreas de oportunidades  para priorizar suas ações en busca de melhorá-las com formação e outras pessoas que te complementem.
 
 ## Syllabus
