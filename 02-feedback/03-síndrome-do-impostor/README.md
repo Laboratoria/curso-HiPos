@@ -6,7 +6,7 @@
 
 ***
 
-[Síndrome do impostor](https://vimeo.com/368362316)
+[Síndrome do impostor](https://vimeo.com/377545411/)
 
 É um fenômeno psicológico no qual as pessoas são incapazes de internalizar suas conquistas e sofrem um medo persistente de serem descobertas como uma fraude.
 

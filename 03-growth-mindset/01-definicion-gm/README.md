@@ -14,7 +14,7 @@ com seu ritmo vertiginoso de mudança, é o **aprender a aprender** e fazê-lo
 continuamente.
 
 Você já leu ou ouviu alguma coisa sobre Growth Mindset? No final deste
-lendo, esperamos que você não apenas entenda esse conceito, mas que você adote uma
+texto, esperamos que você não apenas entenda esse conceito, mas que você adote uma
 mentalidade de crescimento que te permita enfrentar os desafios de aprender algo
 novo, e ter a confiança de saber que poderá superá-los.
 
@@ -31,7 +31,7 @@ inteligência.
 Há 30 anos, Carol Dweck, uma psicóloga americana, se propôs a investigar e
 comparar como estas diferentes crenças podiam fazer com que as pessoas tivessem
 resultados diferentes ao enfrentar um desafio de aprendizagem. Depois de muitas
-pesquisas, ela cunhou os termos Fixed mindset e Growth mindset, ou seja,
+pesquisas, ela inventou os termos Fixed mindset e Growth mindset, ou seja,
 Mentalidade fixa e Mentalidade de crescimento, para descrever esses dois tipos
 de crenças.
 

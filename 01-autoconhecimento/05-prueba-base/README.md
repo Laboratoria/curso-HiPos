@@ -1,4 +1,4 @@
-# Test 2: Forma de pensar y rendimiento
+# Test 2: Forma de pensar e rendimento
 
 * Tipo: `lectura`
 * Formato: `self-paced`
