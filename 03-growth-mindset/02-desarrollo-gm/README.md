@@ -16,7 +16,7 @@ para logo refletir e encontrar estratégias para mudar.
 A imagem a seguir resume algumas das diferenças entre ambas mentalidades, e te
 ajudará a identificar como melhorar:
 
-![Image Growth Mindset](https://user-images.githubusercontent.com/25912510/35746484-ef89fb66-0814-11e8-9da8-0440d5b0375c.png)
+![Image Growth Mindset](<iframe src="https://drive.google.com/file/d/1LAPoSSF2snGWNyjZisiy_ScEA53f3Dq3/preview" width="640" height="480"></iframe>)
 
 ## Growth Mindset na nova era digital
 
