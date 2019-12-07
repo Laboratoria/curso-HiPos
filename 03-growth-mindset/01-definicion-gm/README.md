@@ -1,4 +1,4 @@
-
+## Growth Mindset
 
 * Tipo: `lectura`
 * Formato: `self-paced`
