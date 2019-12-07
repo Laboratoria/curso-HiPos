@@ -6,6 +6,8 @@
 
 ***
 
+# Growth Mindset
+
 Um dos princípios fundamentais a vencer nesta nova era digital,
 com seu ritmo vertiginoso de mudança, é o **aprender a aprender** e fazê-lo
 continuamente.
