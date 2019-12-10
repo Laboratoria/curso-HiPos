@@ -22,7 +22,7 @@ Conheça o significado e a importância de dar e receber feedback.
 Nesse nível, você aprenderá mais sobre a mentalidade de crescimento, que
 Consideramos essencial neste processo.
 
-### Unidad 04: [Opcional: Futuro do Trabajo](04-futuro-trabajo)
+### Unidad 04: [Opcional: Futuro do trabalho](04-futuro-trabalho)
 
 Aprenda um pouco mais sobre o que será o futuro do trabalho e compartilhe sua opinião
 connosco.

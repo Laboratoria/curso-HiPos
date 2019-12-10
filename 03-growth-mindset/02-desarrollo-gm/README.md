@@ -1,4 +1,4 @@
-# Desarrollando Growth Mindset
+# Desenvolvendo Growth Mindset
 
 * Tipo: `lectura`
 * Formato: `self-paced`

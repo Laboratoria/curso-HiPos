@@ -1,4 +1,4 @@
-# Sobre el futuro del Trabajo
+# Sobre o futuro do Trabalho
 
 * Tipo: `lectura`
 * Formato: `self-paced`
