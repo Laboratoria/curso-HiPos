@@ -9,7 +9,7 @@ começar a identificar suas próprias fortalezas e áreas de oportunidades  para
 
 Vamos começar conhecendo você um pouco mais
 
-### Unidad 01: [o que é Autoconhecimento?](01-autoconhecimento)
+### Unidad 01: [O que é Autoconhecimento?](01-autoconhecimento)
 
 Aprenda um pouco mais sobre os conceitos básicos que nos levarão a este conteúdo.
 
