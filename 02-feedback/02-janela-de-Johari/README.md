@@ -10,4 +10,4 @@
 
 A teoria se articula mediante o conceito de espaço interpessoal, que está dividido em quatro áreas (quadrantes), definidas pela informação que transmitem.
 
-[Janela de Johari](![graph-01](https://user-images.githubusercontent.com/42012372/70642024-8aacff00-1c0c-11ea-88c8-977a15a05251.png))
+![Janela de Johari]((https://user-images.githubusercontent.com/42012372/70642024-8aacff00-1c0c-11ea-88c8-977a15a05251.png)
